@@ -1,3 +1,5 @@
+Project structure:
+```
 .
 ├── README.md
 ├── compose.yaml
@@ -11,3 +13,5 @@
 
 2 directories, 7 files
 
+
+```
